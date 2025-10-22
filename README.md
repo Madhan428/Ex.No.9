@@ -1,5 +1,5 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
+# NAME : MADHAN E
+# REG NO : 212222060138
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
 # Aim:
